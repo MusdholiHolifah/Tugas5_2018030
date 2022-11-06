@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tugas5_2018030</string>
+        <string-array name="makanan">
+            <item>Kucing</item>
+            <item>Kelinci</item>
+            <item>Ikan</item>
+            <item>Merpati</item>
+        </string-array>
+        <string-array name="star">
+            <item>4.5</item>
+            <item>4.7</item>
+            <item>4.8</item>
+            <item>4.9</item>
+        </string-array>
+        <string-array name="Deskripsi">
+            <item>Rp. 70.000</item>
+            <item>Rp. 50.000</item>
+            <item>Rp. 10.000</item>
+            <item>Rp. 40.000</item>
+        </string-array>
+    </resources>
